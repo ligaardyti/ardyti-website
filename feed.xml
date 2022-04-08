@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Liga ARDYTI</title>
-    <link href="https://ligaardyti.github.io/ardyti-website/feed.xml" rel="self" />
-    <link href="https://ligaardyti.github.io/ardyti-website" />
+    <link href="https://ligaardyti.com.ar/feed.xml" rel="self" />
+    <link href="https://ligaardyti.com.ar" />
     <updated>2021-11-23T00:50:51+00:00</updated>
     <author>
         <name>Liga ARDYTI</name>
     </author>
-    <id>https://ligaardyti.github.io/ardyti-website</id>
+    <id>https://ligaardyti.com.ar</id>
 
     <entry>
         <title>Boletín Nº27 - 10 de Noviembre de 2021</title>
         <author>
             <name>Liga ARDYTI</name>
         </author>
-        <link href="https://ligaardyti.github.io/ardyti-website/boletin-no27-10-de-noviembre-de-2021.html"/>
-        <id>https://ligaardyti.github.io/ardyti-website/boletin-no27-10-de-noviembre-de-2021.html</id>
+        <link href="https://ligaardyti.com.ar/boletin-no27-10-de-noviembre-de-2021.html"/>
+        <id>https://ligaardyti.com.ar/boletin-no27-10-de-noviembre-de-2021.html</id>
             <category term="Boletín 2021"/>
 
         <updated>2021-11-23T00:50:51+00:00</updated>
@@ -26,7 +26,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--success"><a href="https://ligaardyti.github.io/ardyti-website/boletin-2021-27.pdf">Disponible en formato PDF</a></p>
+                <p class="msg msg--success"><a href="https://ligaardyti.com.ar/boletin-2021-27.pdf">Disponible en formato PDF</a></p>
             ]]>
         </content>
     </entry>
@@ -35,8 +35,8 @@
         <author>
             <name>Liga ARDYTI</name>
         </author>
-        <link href="https://ligaardyti.github.io/ardyti-website/boletin-no26-03-de-noviembre-de-2021.html"/>
-        <id>https://ligaardyti.github.io/ardyti-website/boletin-no26-03-de-noviembre-de-2021.html</id>
+        <link href="https://ligaardyti.com.ar/boletin-no26-03-de-noviembre-de-2021.html"/>
+        <id>https://ligaardyti.com.ar/boletin-no26-03-de-noviembre-de-2021.html</id>
             <category term="Boletín 2021"/>
 
         <updated>2021-11-10T01:07:57+00:00</updated>
@@ -47,7 +47,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--success"><a href="https://ligaardyti.github.io/ardyti-website/boletin-2021-26.pdf">Disponible en formato PDF</a></p>
+                <p class="msg msg--success"><a href="https://ligaardyti.com.ar/boletin-2021-26.pdf">Disponible en formato PDF</a></p>
             ]]>
         </content>
     </entry>
@@ -56,8 +56,8 @@
         <author>
             <name>Liga ARDYTI</name>
         </author>
-        <link href="https://ligaardyti.github.io/ardyti-website/boletin-no25-27-de-octubre-de-2021.html"/>
-        <id>https://ligaardyti.github.io/ardyti-website/boletin-no25-27-de-octubre-de-2021.html</id>
+        <link href="https://ligaardyti.com.ar/boletin-no25-27-de-octubre-de-2021.html"/>
+        <id>https://ligaardyti.com.ar/boletin-no25-27-de-octubre-de-2021.html</id>
             <category term="Boletín 2021"/>
 
         <updated>2021-11-10T01:07:14+00:00</updated>
@@ -68,7 +68,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--success"><a href="https://ligaardyti.github.io/ardyti-website/boletin-2021-25.pdf">Disponible en formato PDF</a></p>
+                <p class="msg msg--success"><a href="https://ligaardyti.com.ar/boletin-2021-25.pdf">Disponible en formato PDF</a></p>
             ]]>
         </content>
     </entry>
@@ -77,8 +77,8 @@
         <author>
             <name>Liga ARDYTI</name>
         </author>
-        <link href="https://ligaardyti.github.io/ardyti-website/boletin-no24-20-de-octubre-de-2021.html"/>
-        <id>https://ligaardyti.github.io/ardyti-website/boletin-no24-20-de-octubre-de-2021.html</id>
+        <link href="https://ligaardyti.com.ar/boletin-no24-20-de-octubre-de-2021.html"/>
+        <id>https://ligaardyti.com.ar/boletin-no24-20-de-octubre-de-2021.html</id>
             <category term="Boletín 2021"/>
 
         <updated>2021-11-10T01:06:34+00:00</updated>
@@ -89,7 +89,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--success"><a href="https://ligaardyti.github.io/ardyti-website/boletin-2021-24.pdf">Disponible en formato PDF</a></p>
+                <p class="msg msg--success"><a href="https://ligaardyti.com.ar/boletin-2021-24.pdf">Disponible en formato PDF</a></p>
             ]]>
         </content>
     </entry>
@@ -98,8 +98,8 @@
         <author>
             <name>Liga ARDYTI</name>
         </author>
-        <link href="https://ligaardyti.github.io/ardyti-website/boletin-no23-14-de-octubre-de-2021.html"/>
-        <id>https://ligaardyti.github.io/ardyti-website/boletin-no23-14-de-octubre-de-2021.html</id>
+        <link href="https://ligaardyti.com.ar/boletin-no23-14-de-octubre-de-2021.html"/>
+        <id>https://ligaardyti.com.ar/boletin-no23-14-de-octubre-de-2021.html</id>
             <category term="Boletín 2021"/>
 
         <updated>2021-11-10T01:05:57+00:00</updated>
@@ -110,7 +110,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--success"><a href="https://ligaardyti.github.io/ardyti-website/boletin-2021-23.pdf">Disponible en formato PDF</a></p>
+                <p class="msg msg--success"><a href="https://ligaardyti.com.ar/boletin-2021-23.pdf">Disponible en formato PDF</a></p>
             ]]>
         </content>
     </entry>
@@ -119,8 +119,8 @@
         <author>
             <name>Liga ARDYTI</name>
         </author>
-        <link href="https://ligaardyti.github.io/ardyti-website/boletin-no22-06-de-octubre-de-2021.html"/>
-        <id>https://ligaardyti.github.io/ardyti-website/boletin-no22-06-de-octubre-de-2021.html</id>
+        <link href="https://ligaardyti.com.ar/boletin-no22-06-de-octubre-de-2021.html"/>
+        <id>https://ligaardyti.com.ar/boletin-no22-06-de-octubre-de-2021.html</id>
             <category term="Boletín 2021"/>
 
         <updated>2021-11-10T01:05:13+00:00</updated>
@@ -131,7 +131,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--success"><a href="https://ligaardyti.github.io/ardyti-website/boletin-2021-22.pdf">Disponible en formato PDF</a></p>
+                <p class="msg msg--success"><a href="https://ligaardyti.com.ar/boletin-2021-22.pdf">Disponible en formato PDF</a></p>
             ]]>
         </content>
     </entry>
@@ -140,8 +140,8 @@
         <author>
             <name>Liga ARDYTI</name>
         </author>
-        <link href="https://ligaardyti.github.io/ardyti-website/2a-rueda-or-fecha-06-2021.html"/>
-        <id>https://ligaardyti.github.io/ardyti-website/2a-rueda-or-fecha-06-2021.html</id>
+        <link href="https://ligaardyti.com.ar/2a-rueda-or-fecha-06-2021.html"/>
+        <id>https://ligaardyti.com.ar/2a-rueda-or-fecha-06-2021.html</id>
             <category term="Resultados 2021"/>
 
         <updated>2021-11-10T00:55:15+00:00</updated>
@@ -152,7 +152,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--success"><a href="https://ligaardyti.github.io/ardyti-website/2021-02-06-resultados.pdf">Disponible en formato PDF</a></p>
+                <p class="msg msg--success"><a href="https://ligaardyti.com.ar/2021-02-06-resultados.pdf">Disponible en formato PDF</a></p>
 <table dir="ltr" cellspacing="0" cellpadding="0"><colgroup><col width="52"><col width="346"><col width="51"><col width="51"><col width="51"><col width="51"><col width="51"><col width="51"><col width="51"></colgroup>
 <tbody>
 <tr>
@@ -445,8 +445,8 @@
         <author>
             <name>Liga ARDYTI</name>
         </author>
-        <link href="https://ligaardyti.github.io/ardyti-website/2a-rueda-or-fecha-05-2021.html"/>
-        <id>https://ligaardyti.github.io/ardyti-website/2a-rueda-or-fecha-05-2021.html</id>
+        <link href="https://ligaardyti.com.ar/2a-rueda-or-fecha-05-2021.html"/>
+        <id>https://ligaardyti.com.ar/2a-rueda-or-fecha-05-2021.html</id>
             <category term="Resultados 2021"/>
 
         <updated>2021-11-10T00:52:41+00:00</updated>
@@ -457,7 +457,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--success"><a href="https://ligaardyti.github.io/ardyti-website/2021-02-05-resultados.pdf">Disponible en formato PDF</a></p>
+                <p class="msg msg--success"><a href="https://ligaardyti.com.ar/2021-02-05-resultados.pdf">Disponible en formato PDF</a></p>
 <table dir="ltr" cellspacing="0" cellpadding="0"><colgroup><col width="52"><col width="346"><col width="51"><col width="51"><col width="51"><col width="51"><col width="51"><col width="51"><col width="51"></colgroup>
 <tbody>
 <tr>
@@ -746,8 +746,8 @@
         <author>
             <name>Liga ARDYTI</name>
         </author>
-        <link href="https://ligaardyti.github.io/ardyti-website/2a-rueda-or-fecha-04-2021.html"/>
-        <id>https://ligaardyti.github.io/ardyti-website/2a-rueda-or-fecha-04-2021.html</id>
+        <link href="https://ligaardyti.com.ar/2a-rueda-or-fecha-04-2021.html"/>
+        <id>https://ligaardyti.com.ar/2a-rueda-or-fecha-04-2021.html</id>
             <category term="Resultados 2021"/>
 
         <updated>2021-11-10T00:44:44+00:00</updated>
@@ -758,7 +758,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--success"><a href="https://ligaardyti.github.io/ardyti-website/2021-02-04-resultados.pdf">Disponible en formato PDF</a></p>
+                <p class="msg msg--success"><a href="https://ligaardyti.com.ar/2021-02-04-resultados.pdf">Disponible en formato PDF</a></p>
 <table dir="ltr" cellspacing="0" cellpadding="0"><colgroup><col width="52"><col width="346"><col width="51"><col width="51"><col width="51"><col width="51"><col width="51"><col width="51"><col width="51"></colgroup>
 <tbody>
 <tr>
@@ -1023,8 +1023,8 @@
         <author>
             <name>Liga ARDYTI</name>
         </author>
-        <link href="https://ligaardyti.github.io/ardyti-website/2a-rueda-or-fecha-03-2021.html"/>
-        <id>https://ligaardyti.github.io/ardyti-website/2a-rueda-or-fecha-03-2021.html</id>
+        <link href="https://ligaardyti.com.ar/2a-rueda-or-fecha-03-2021.html"/>
+        <id>https://ligaardyti.com.ar/2a-rueda-or-fecha-03-2021.html</id>
             <category term="Resultados 2021"/>
 
         <updated>2021-11-10T00:40:59+00:00</updated>
@@ -1035,7 +1035,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--success"><a href="https://ligaardyti.github.io/ardyti-website/2021-02-03-resultados.pdf">Disponible en formato PDF</a></p>
+                <p class="msg msg--success"><a href="https://ligaardyti.com.ar/2021-02-03-resultados.pdf">Disponible en formato PDF</a></p>
 <table dir="ltr" cellspacing="0" cellpadding="0"><colgroup><col width="52"><col width="346"><col width="51"><col width="51"><col width="51"><col width="51"><col width="51"><col width="51"><col width="51"></colgroup>
 <tbody>
 <tr>
