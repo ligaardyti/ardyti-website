@@ -3,34 +3,12 @@
     <title>Liga ARDYTI</title>
     <link href="https://ligaardyti.com.ar/feed.xml" rel="self" />
     <link href="https://ligaardyti.com.ar" />
-    <updated>2022-04-11T08:35:38+01:00</updated>
+    <updated>2021-11-23T00:50:51+00:00</updated>
     <author>
         <name>Liga ARDYTI</name>
     </author>
     <id>https://ligaardyti.com.ar</id>
 
-    <entry>
-        <title>Fixture Torneo 2022</title>
-        <author>
-            <name>Liga ARDYTI</name>
-        </author>
-        <link href="https://ligaardyti.com.ar/fixture-torneo-2022.html"/>
-        <id>https://ligaardyti.com.ar/fixture-torneo-2022.html</id>
-
-        <updated>2022-04-11T08:35:38+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Zona "A" - Disponible en formato PDF Zona "B" - Disponible en&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="msg msg--success"><a href="https://ligaardyti.com.ar/2022-fixture-zona-A.pdf">Zona "A" - Disponible en formato PDF</a></p>
-<p class="msg msg--success"><a href="https://ligaardyti.com.ar/2022-fixture-zona-B.pdf">Zona "B" - Disponible en formato PDF</a></p>
-<p class="msg msg--success"><a href="https://ligaardyti.com.ar/2022-fixture-zona-C.pdf">Zona "C" - Disponible en formato PDF</a></p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Boletín Nº27 - 10 de Noviembre de 2021</title>
         <author>
@@ -1027,6 +1005,307 @@
 </tr>
 <tr>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A.D.I.R. \&quot;B\&quot; - LIBRE&quot;}" data-sheets-formula="=CONCATENAR(R[24]C[9];&quot; - &quot;;R[25]C[9])">A.D.I.R. "B" - LIBRE</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[24]C[11];&quot; - &quot;;R[25]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[24]C[11];&quot; - &quot;;R[25]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[24]C[11];&quot; - &quot;;R[25]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[24]C[11];&quot; - &quot;;R[25]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[24]C[11];&quot; - &quot;;R[25]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[24]C[11];&quot; - &quot;;R[25]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[24]C[11];&quot; - &quot;;R[25]C[11])">-</td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>2a Rueda | Fecha 03-2021</title>
+        <author>
+            <name>Liga ARDYTI</name>
+        </author>
+        <link href="https://ligaardyti.com.ar/2a-rueda-or-fecha-03-2021.html"/>
+        <id>https://ligaardyti.com.ar/2a-rueda-or-fecha-03-2021.html</id>
+            <category term="Resultados 2021"/>
+
+        <updated>2021-11-10T00:40:59+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Disponible en formato PDF ZONA PARTIDO 2015 2014 2013 2012 2011 2010&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--success"><a href="https://ligaardyti.com.ar/2021-02-03-resultados.pdf">Disponible en formato PDF</a></p>
+<table dir="ltr" cellspacing="0" cellpadding="0"><colgroup><col width="52"><col width="346"><col width="51"><col width="51"><col width="51"><col width="51"><col width="51"><col width="51"><col width="51"></colgroup>
+<tbody>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ZONA&quot;}">ZONA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;PARTIDO&quot;}">PARTIDO</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2015}">2015</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2014}">2014</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2013}">2013</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2012}">2012</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2011}">2011</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2010}">2010</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2009}">2009</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="5" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ZONA \&quot;A\&quot;&quot;}">
+<div>ZONA "A"</div>
+</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Juan Pablo II - Gral. San Martín&quot;}" data-sheets-formula="=CONCATENAR(R[0]C[9];&quot; - &quot;;R[1]C[9])">Juan Pablo II - Gral. San Martín</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[0]C[11];&quot; - &quot;;R[1]C[11])">0 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[0]C[11];&quot; - &quot;;R[1]C[11])">1 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 3&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[0]C[11];&quot; - &quot;;R[1]C[11])">0 - 3</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[0]C[11];&quot; - &quot;;R[1]C[11])">1 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[0]C[11];&quot; - &quot;;R[1]C[11])">2 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[0]C[11];&quot; - &quot;;R[1]C[11])">0 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[0]C[11];&quot; - &quot;;R[1]C[11])">1 - 0</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Def. de Peñarol - Defensores Barrio Acíndar&quot;}" data-sheets-formula="=CONCATENAR(R[1]C[9];&quot; - &quot;;R[2]C[9])">Def. de Peñarol - Defensores Barrio Acíndar</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[1]C[11];&quot; - &quot;;R[2]C[11])">2 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[1]C[11];&quot; - &quot;;R[2]C[11])">3 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[1]C[11];&quot; - &quot;;R[2]C[11])">0 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[1]C[11];&quot; - &quot;;R[2]C[11])">1 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[1]C[11];&quot; - &quot;;R[2]C[11])">3 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[1]C[11];&quot; - &quot;;R[2]C[11])">0 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 5&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[1]C[11];&quot; - &quot;;R[2]C[11])">1 - 5</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;C.I.Renacer - A.I. 6 de Mayo&quot;}" data-sheets-formula="=CONCATENAR(R[2]C[9];&quot; - &quot;;R[3]C[9])">C.I.Renacer - A.I. 6 de Mayo</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 4&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[2]C[11];&quot; - &quot;;R[3]C[11])">0 - 4</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[2]C[11];&quot; - &quot;;R[3]C[11])">4 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 4&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[2]C[11];&quot; - &quot;;R[3]C[11])">1 - 4</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[2]C[11];&quot; - &quot;;R[3]C[11])">0 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[2]C[11];&quot; - &quot;;R[3]C[11])">0 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 3&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[2]C[11];&quot; - &quot;;R[3]C[11])">1 - 3</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[2]C[11];&quot; - &quot;;R[3]C[11])">2 - 2</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Unión y Progreso \&quot;A\&quot; - 17 de Agosto \&quot;B\&quot;&quot;}" data-sheets-formula="=CONCATENAR(R[3]C[9];&quot; - &quot;;R[4]C[9])">Unión y Progreso "A" - 17 de Agosto "B"</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[3]C[11];&quot; - &quot;;R[4]C[11])">4 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;8 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[3]C[11];&quot; - &quot;;R[4]C[11])">8 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[3]C[11];&quot; - &quot;;R[4]C[11])">1 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;5 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[3]C[11];&quot; - &quot;;R[4]C[11])">5 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[3]C[11];&quot; - &quot;;R[4]C[11])">3 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[3]C[11];&quot; - &quot;;R[4]C[11])">1 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[3]C[11];&quot; - &quot;;R[4]C[11])">1 - 0</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;C.I.Moreno - LIBRE&quot;}" data-sheets-formula="=CONCATENAR(R[4]C[9];&quot; - &quot;;R[5]C[9])">C.I.Moreno - LIBRE</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[4]C[11];&quot; - &quot;;R[5]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[4]C[11];&quot; - &quot;;R[5]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[4]C[11];&quot; - &quot;;R[5]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[4]C[11];&quot; - &quot;;R[5]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[4]C[11];&quot; - &quot;;R[5]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[4]C[11];&quot; - &quot;;R[5]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[4]C[11];&quot; - &quot;;R[5]C[11])">-</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="5" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ZONA \&quot;B\&quot;&quot;}">
+<div>ZONA "B"</div>
+</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;17 de Agosto \&quot;A\&quot; - Vecinal 25 de Mayo&quot;}" data-sheets-formula="=CONCATENAR(R[5]C[9];&quot; - &quot;;R[6]C[9])">17 de Agosto "A" - Vecinal 25 de Mayo</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[5]C[11];&quot; - &quot;;R[6]C[11])">0 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 6&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[5]C[11];&quot; - &quot;;R[6]C[11])">1 - 6</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[5]C[11];&quot; - &quot;;R[6]C[11])">1 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[5]C[11];&quot; - &quot;;R[6]C[11])">0 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[5]C[11];&quot; - &quot;;R[6]C[11])">0 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[5]C[11];&quot; - &quot;;R[6]C[11])">0 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 3&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[5]C[11];&quot; - &quot;;R[6]C[11])">1 - 3</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Santa Isabel de Hungría - Vecinal Dorrego&quot;}" data-sheets-formula="=CONCATENAR(R[6]C[9];&quot; - &quot;;R[7]C[9])">Santa Isabel de Hungría - Vecinal Dorrego</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[6]C[11];&quot; - &quot;;R[7]C[11])">3 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[6]C[11];&quot; - &quot;;R[7]C[11])">4 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[6]C[11];&quot; - &quot;;R[7]C[11])">2 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[6]C[11];&quot; - &quot;;R[7]C[11])">1 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[6]C[11];&quot; - &quot;;R[7]C[11])">2 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;6 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[6]C[11];&quot; - &quot;;R[7]C[11])">6 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[6]C[11];&quot; - &quot;;R[7]C[11])">4 - 2</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Deportivo Rosario - La Consolata&quot;}" data-sheets-formula="=CONCATENAR(R[7]C[9];&quot; - &quot;;R[8]C[9])">Deportivo Rosario - La Consolata</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[7]C[11];&quot; - &quot;;R[8]C[11])">1 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[7]C[11];&quot; - &quot;;R[8]C[11])">1 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[7]C[11];&quot; - &quot;;R[8]C[11])">0 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[7]C[11];&quot; - &quot;;R[8]C[11])">1 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[7]C[11];&quot; - &quot;;R[8]C[11])">0 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[7]C[11];&quot; - &quot;;R[8]C[11])">1 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[7]C[11];&quot; - &quot;;R[8]C[11])">1 - 0</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Santa Teresita Sur - Estrella Junior&quot;}" data-sheets-formula="=CONCATENAR(R[8]C[9];&quot; - &quot;;R[9]C[9])">Santa Teresita Sur - Estrella Junior</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[8]C[11];&quot; - &quot;;R[9]C[11])">0 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 3&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[8]C[11];&quot; - &quot;;R[9]C[11])">0 - 3</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[8]C[11];&quot; - &quot;;R[9]C[11])">0 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[8]C[11];&quot; - &quot;;R[9]C[11])">0 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[8]C[11];&quot; - &quot;;R[9]C[11])">0 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[8]C[11];&quot; - &quot;;R[9]C[11])">0 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 3&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[8]C[11];&quot; - &quot;;R[9]C[11])">0 - 3</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Unión y Progreso \&quot;B\&quot; - LIBRE&quot;}" data-sheets-formula="=CONCATENAR(R[9]C[9];&quot; - &quot;;R[10]C[9])">Unión y Progreso "B" - LIBRE</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[9]C[11];&quot; - &quot;;R[10]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[9]C[11];&quot; - &quot;;R[10]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[9]C[11];&quot; - &quot;;R[10]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[9]C[11];&quot; - &quot;;R[10]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[9]C[11];&quot; - &quot;;R[10]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[9]C[11];&quot; - &quot;;R[10]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[9]C[11];&quot; - &quot;;R[10]C[11])">-</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="5" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ZONA \&quot;C\&quot;&quot;}">
+<div>ZONA "C"</div>
+</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pquia. N.S. de La Salud - Villa del Parque&quot;}" data-sheets-formula="=CONCATENAR(R[10]C[9];&quot; - &quot;;R[11]C[9])">Pquia. N.S. de La Salud - Villa del Parque</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[10]C[11];&quot; - &quot;;R[11]C[11])">3 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[10]C[11];&quot; - &quot;;R[11]C[11])">1 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[10]C[11];&quot; - &quot;;R[11]C[11])">1 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[10]C[11];&quot; - &quot;;R[11]C[11])">1 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[10]C[11];&quot; - &quot;;R[11]C[11])">2 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[10]C[11];&quot; - &quot;;R[11]C[11])">0 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[10]C[11];&quot; - &quot;;R[11]C[11])">4 - 1</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Nuestra Sra. de Itatí - C.I. El Fortín&quot;}" data-sheets-formula="=CONCATENAR(R[11]C[9];&quot; - &quot;;R[12]C[9])">Nuestra Sra. de Itatí - C.I. El Fortín</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[11]C[11];&quot; - &quot;;R[12]C[11])">2 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[11]C[11];&quot; - &quot;;R[12]C[11])">3 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[11]C[11];&quot; - &quot;;R[12]C[11])">0 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[11]C[11];&quot; - &quot;;R[12]C[11])">2 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[11]C[11];&quot; - &quot;;R[12]C[11])">1 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[11]C[11];&quot; - &quot;;R[12]C[11])">3 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 3&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[11]C[11];&quot; - &quot;;R[12]C[11])">0 - 3</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Defensores de Alvear - Defensores de Centro (Verde)&quot;}" data-sheets-formula="=CONCATENAR(R[12]C[9];&quot; - &quot;;R[13]C[9])">Defensores de Alvear - Defensores de Centro (Verde)</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[12]C[11];&quot; - &quot;;R[13]C[11])">0 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[12]C[11];&quot; - &quot;;R[13]C[11])">0 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 4&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[12]C[11];&quot; - &quot;;R[13]C[11])">0 - 4</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 5&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[12]C[11];&quot; - &quot;;R[13]C[11])">1 - 5</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 4&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[12]C[11];&quot; - &quot;;R[13]C[11])">0 - 4</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 5&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[12]C[11];&quot; - &quot;;R[13]C[11])">0 - 5</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 6&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[12]C[11];&quot; - &quot;;R[13]C[11])">0 - 6</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Unión y Progreso \&quot;C\&quot; - Rosario Sur&quot;}" data-sheets-formula="=CONCATENAR(R[13]C[9];&quot; - &quot;;R[14]C[9])">Unión y Progreso "C" - Rosario Sur</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 3&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[13]C[11];&quot; - &quot;;R[14]C[11])">0 - 3</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[13]C[11];&quot; - &quot;;R[14]C[11])">1 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 6&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[13]C[11];&quot; - &quot;;R[14]C[11])">0 - 6</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[13]C[11];&quot; - &quot;;R[14]C[11])">0 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[13]C[11];&quot; - &quot;;R[14]C[11])">2 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 7&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[13]C[11];&quot; - &quot;;R[14]C[11])">0 - 7</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 5&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[13]C[11];&quot; - &quot;;R[14]C[11])">0 - 5</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Rosario Unidos - LIBRE&quot;}" data-sheets-formula="=CONCATENAR(R[14]C[9];&quot; - &quot;;R[15]C[9])">Rosario Unidos - LIBRE</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[14]C[11];&quot; - &quot;;R[15]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[14]C[11];&quot; - &quot;;R[15]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[14]C[11];&quot; - &quot;;R[15]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[14]C[11];&quot; - &quot;;R[15]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[14]C[11];&quot; - &quot;;R[15]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[14]C[11];&quot; - &quot;;R[15]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[14]C[11];&quot; - &quot;;R[15]C[11])">-</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="5" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ZONA \&quot;D\&quot;&quot;}">
+<div>ZONA "D"</div>
+</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A.D.I.R. \&quot;A\&quot; - Azcuénaga Sur&quot;}" data-sheets-formula="=CONCATENAR(R[15]C[9];&quot; - &quot;;R[16]C[9])">A.D.I.R. "A" - Azcuénaga Sur</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[15]C[11];&quot; - &quot;;R[16]C[11])">0 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[15]C[11];&quot; - &quot;;R[16]C[11])">0 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[15]C[11];&quot; - &quot;;R[16]C[11])">0 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[15]C[11];&quot; - &quot;;R[16]C[11])">1 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[15]C[11];&quot; - &quot;;R[16]C[11])">1 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[15]C[11];&quot; - &quot;;R[16]C[11])">1 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[15]C[11];&quot; - &quot;;R[16]C[11])">1 - 0</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Defensores de Centro (Naranja) - Argentina '78 (Celeste)&quot;}" data-sheets-formula="=CONCATENAR(R[16]C[9];&quot; - &quot;;R[17]C[9])">Defensores de Centro (Naranja) - Argentina '78 (Celeste)</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[16]C[11];&quot; - &quot;;R[17]C[11])">4 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;8 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[16]C[11];&quot; - &quot;;R[17]C[11])">8 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[16]C[11];&quot; - &quot;;R[17]C[11])">1 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;5 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[16]C[11];&quot; - &quot;;R[17]C[11])">5 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[16]C[11];&quot; - &quot;;R[17]C[11])">4 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[16]C[11];&quot; - &quot;;R[17]C[11])">1 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;5 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[16]C[11];&quot; - &quot;;R[17]C[11])">5 - 0</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;C.I. D'Eliott - Provincias Unidas (Azul)&quot;}" data-sheets-formula="=CONCATENAR(R[17]C[9];&quot; - &quot;;R[18]C[9])">C.I. D'Eliott - Provincias Unidas (Azul)</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 6&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[17]C[11];&quot; - &quot;;R[18]C[11])">0 - 6</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[17]C[11];&quot; - &quot;;R[18]C[11])">0 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 - 4&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[17]C[11];&quot; - &quot;;R[18]C[11])">4 - 4</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[17]C[11];&quot; - &quot;;R[18]C[11])">1 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 3&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[17]C[11];&quot; - &quot;;R[18]C[11])">0 - 3</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 - 3&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[17]C[11];&quot; - &quot;;R[18]C[11])">3 - 3</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 - 4&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[17]C[11];&quot; - &quot;;R[18]C[11])">3 - 4</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;C.I. Centeno Oeste - Club Inf. 27 de Febrero&quot;}" data-sheets-formula="=CONCATENAR(R[18]C[9];&quot; - &quot;;R[19]C[9])">C.I. Centeno Oeste - Club Inf. 27 de Febrero</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[18]C[11];&quot; - &quot;;R[19]C[11])">1 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 3&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[18]C[11];&quot; - &quot;;R[19]C[11])">0 - 3</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[18]C[11];&quot; - &quot;;R[19]C[11])">2 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[18]C[11];&quot; - &quot;;R[19]C[11])">2 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[18]C[11];&quot; - &quot;;R[19]C[11])">0 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[18]C[11];&quot; - &quot;;R[19]C[11])">2 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[18]C[11];&quot; - &quot;;R[19]C[11])">2 - 1</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Loma Negra (Negra) - LIBRE&quot;}" data-sheets-formula="=CONCATENAR(R[19]C[9];&quot; - &quot;;R[20]C[9])">Loma Negra (Negra) - LIBRE</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[19]C[11];&quot; - &quot;;R[20]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[19]C[11];&quot; - &quot;;R[20]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[19]C[11];&quot; - &quot;;R[20]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[19]C[11];&quot; - &quot;;R[20]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[19]C[11];&quot; - &quot;;R[20]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[19]C[11];&quot; - &quot;;R[20]C[11])">-</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[19]C[11];&quot; - &quot;;R[20]C[11])">-</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="5" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ZONA \&quot;E\&quot;&quot;}">
+<div>ZONA "E"</div>
+</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Recuerdos de Evita - Nueva Era Club&quot;}" data-sheets-formula="=CONCATENAR(R[20]C[9];&quot; - &quot;;R[21]C[9])">Recuerdos de Evita - Nueva Era Club</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[20]C[11];&quot; - &quot;;R[21]C[11])">0 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 4&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[20]C[11];&quot; - &quot;;R[21]C[11])">0 - 4</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 3&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[20]C[11];&quot; - &quot;;R[21]C[11])">0 - 3</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 5&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[20]C[11];&quot; - &quot;;R[21]C[11])">1 - 5</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 7&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[20]C[11];&quot; - &quot;;R[21]C[11])">0 - 7</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[20]C[11];&quot; - &quot;;R[21]C[11])">0 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[20]C[11];&quot; - &quot;;R[21]C[11])">2 - 0</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Provincias Unidas (Blanca) - Amistad y Unión&quot;}" data-sheets-formula="=CONCATENAR(R[21]C[9];&quot; - &quot;;R[22]C[9])">Provincias Unidas (Blanca) - Amistad y Unión</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[21]C[11];&quot; - &quot;;R[22]C[11])">0 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[21]C[11];&quot; - &quot;;R[22]C[11])">1 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;6 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[21]C[11];&quot; - &quot;;R[22]C[11])">6 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[21]C[11];&quot; - &quot;;R[22]C[11])">4 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[21]C[11];&quot; - &quot;;R[22]C[11])">2 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[21]C[11];&quot; - &quot;;R[22]C[11])">3 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[21]C[11];&quot; - &quot;;R[22]C[11])">1 - 0</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Argentina '78 (Blanca) - Estrella de Paz&quot;}" data-sheets-formula="=CONCATENAR(R[22]C[9];&quot; - &quot;;R[23]C[9])">Argentina '78 (Blanca) - Estrella de Paz</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[22]C[11];&quot; - &quot;;R[23]C[11])">2 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[22]C[11];&quot; - &quot;;R[23]C[11])">2 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[22]C[11];&quot; - &quot;;R[23]C[11])">2 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[22]C[11];&quot; - &quot;;R[23]C[11])">0 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 0&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[22]C[11];&quot; - &quot;;R[23]C[11])">2 - 0</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 - 1&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[22]C[11];&quot; - &quot;;R[23]C[11])">2 - 1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[22]C[11];&quot; - &quot;;R[23]C[11])">-</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Loma Negra (Blanca) - A.D.I.R. \&quot;B\&quot;&quot;}" data-sheets-formula="=CONCATENAR(R[23]C[9];&quot; - &quot;;R[24]C[9])">Loma Negra (Blanca) - A.D.I.R. "B"</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 3&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[23]C[11];&quot; - &quot;;R[24]C[11])">0 - 3</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 6&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[23]C[11];&quot; - &quot;;R[24]C[11])">0 - 6</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 2&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[23]C[11];&quot; - &quot;;R[24]C[11])">1 - 2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 5&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[23]C[11];&quot; - &quot;;R[24]C[11])">0 - 5</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 7&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[23]C[11];&quot; - &quot;;R[24]C[11])">0 - 7</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0 - 3&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[23]C[11];&quot; - &quot;;R[24]C[11])">0 - 3</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 - 3&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[23]C[11];&quot; - &quot;;R[24]C[11])">1 - 3</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Unión y Progreso \&quot;D\&quot; - LIBRE&quot;}" data-sheets-formula="=CONCATENAR(R[24]C[9];&quot; - &quot;;R[25]C[9])">Unión y Progreso "D" - LIBRE</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[24]C[11];&quot; - &quot;;R[25]C[11])">-</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[24]C[11];&quot; - &quot;;R[25]C[11])">-</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; - &quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;@&quot;,&quot;3&quot;:1}" data-sheets-formula="=CONCATENAR(R[24]C[11];&quot; - &quot;;R[25]C[11])">-</td>
