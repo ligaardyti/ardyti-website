@@ -11,19 +11,18 @@
     },
     "items": [
         {
-            "id": "https://ligaardyti.com.ar/test-rss.html",
-            "url": "https://ligaardyti.com.ar/test-rss.html",
-            "title": "Test RSS",
-            "summary": "Contenido. Disponible en formato PDF",
-            "content_html": "<p>Contenido.</p>\n<p class=\"msg msg--success\"><a href=\"https://ligaardyti.com.ar/boletin-2021-27.pdf\">Disponible en formato PDF</a></p>",
+            "id": "https://ligaardyti.com.ar/fixture-torneo-2022.html",
+            "url": "https://ligaardyti.com.ar/fixture-torneo-2022.html",
+            "title": "Fixture Torneo 2022",
+            "summary": "Zona \"A\" - Disponible en formato PDF Zona \"B\" - Disponible en&hellip;",
+            "content_html": "<p class=\"msg msg--success\"><a href=\"https://ligaardyti.com.ar/2022-fixture-zona-A.pdf\">Zona \"A\" - Disponible en formato PDF</a></p>\n<p class=\"msg msg--success\"><a href=\"https://ligaardyti.com.ar/2022-fixture-zona-B.pdf\">Zona \"B\" - Disponible en formato PDF</a></p>\n<p class=\"msg msg--success\"><a href=\"https://ligaardyti.com.ar/2022-fixture-zona-C.pdf\">Zona \"C\" - Disponible en formato PDF</a></p>",
             "author": {
                 "name": "Liga ARDYTI"
             },
             "tags": [
-                   "tablas"
             ],
-            "date_published": "2022-04-09T14:13:34+01:00",
-            "date_modified": "2022-04-09T14:19:48+01:00"
+            "date_published": "2022-04-11T08:35:38+01:00",
+            "date_modified": "2022-04-11T08:35:38+01:00"
         },
         {
             "id": "https://ligaardyti.com.ar/boletin-no27-10-de-noviembre-de-2021.html",

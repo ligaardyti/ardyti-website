@@ -3,31 +3,31 @@
     <title>Liga ARDYTI</title>
     <link href="https://ligaardyti.com.ar/feed.xml" rel="self" />
     <link href="https://ligaardyti.com.ar" />
-    <updated>2022-04-09T14:19:48+01:00</updated>
+    <updated>2022-04-11T08:35:38+01:00</updated>
     <author>
         <name>Liga ARDYTI</name>
     </author>
     <id>https://ligaardyti.com.ar</id>
 
     <entry>
-        <title>Test RSS</title>
+        <title>Fixture Torneo 2022</title>
         <author>
             <name>Liga ARDYTI</name>
         </author>
-        <link href="https://ligaardyti.com.ar/test-rss.html"/>
-        <id>https://ligaardyti.com.ar/test-rss.html</id>
-            <category term="tablas"/>
+        <link href="https://ligaardyti.com.ar/fixture-torneo-2022.html"/>
+        <id>https://ligaardyti.com.ar/fixture-torneo-2022.html</id>
 
-        <updated>2022-04-09T14:19:48+01:00</updated>
+        <updated>2022-04-11T08:35:38+01:00</updated>
             <summary>
                 <![CDATA[
-                    Contenido. Disponible en formato PDF
+                    Zona "A" - Disponible en formato PDF Zona "B" - Disponible en&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Contenido.</p>
-<p class="msg msg--success"><a href="https://ligaardyti.com.ar/boletin-2021-27.pdf">Disponible en formato PDF</a></p>
+                <p class="msg msg--success"><a href="https://ligaardyti.com.ar/2022-fixture-zona-A.pdf">Zona "A" - Disponible en formato PDF</a></p>
+<p class="msg msg--success"><a href="https://ligaardyti.com.ar/2022-fixture-zona-B.pdf">Zona "B" - Disponible en formato PDF</a></p>
+<p class="msg msg--success"><a href="https://ligaardyti.com.ar/2022-fixture-zona-C.pdf">Zona "C" - Disponible en formato PDF</a></p>
             ]]>
         </content>
     </entry>
