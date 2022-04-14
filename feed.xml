@@ -3,7 +3,7 @@
     <title>Liga ARDYTI</title>
     <link href="https://ligaardyti.com.ar/feed.xml" rel="self" />
     <link href="https://ligaardyti.com.ar" />
-    <updated>2022-04-13T13:03:38+01:00</updated>
+    <updated>2022-04-14T12:43:01+01:00</updated>
     <author>
         <name>Liga ARDYTI</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Tablas 2022"/>
             <category term="Tablas"/>
 
-        <updated>2022-04-13T13:03:38+01:00</updated>
+        <updated>2022-04-14T12:43:01+01:00</updated>
             <summary>
                 <![CDATA[
                     Disponible en formato PDF Zona "A" Zona "B" Zona "C" Equipo Ptos&hellip;
@@ -27,7 +27,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--success"><a href="https://ligaardyti.com.ar/2022-01-tabla-gral.pd">Disponible en formato PDF</a></p>
+                <p class="msg msg--success"><a href="https://ligaardyti.com.ar/2022-01-tabla-gral.pdf">Disponible en formato PDF</a></p>
 <table dir="ltr" style="border-collapse: collapse; width: 100%; height: 100%;" border="1" cellspacing="0" cellpadding="0"><colgroup><col style="width: 28.49%;" width="200"><col style="width: 5.69801%;" width="40"><col style="width: 28.49%;" width="200"><col style="width: 5.69801%;" width="40"><col style="width: 28.49%;" width="200"><col style="width: 5.69801%;" width="40"></colgroup>
 <tbody>
 <tr style="height: 50.3594px;">
